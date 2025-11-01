@@ -15,7 +15,7 @@ This project is strictly for **Educational & Research purposes only**.
 Never perform unauthorized penetration testing on real networks.
 
 ## Install using Arduino IDE
-1. Install Arduino IDE
+1. Install [Arduino IDE](https://www.arduino.cc/en/software)
 2. In Arduino go to File -> Preferences add this URL to Additional Boards Manager URLs -> https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
 3. In Arduino go to Tools -> Board -> Boards Manager search for and install the deauther package
 4. Download and open [eviltwinattack.ino](https://github.com/cyberwolf6938/evil-twin-attack/blob/main/eviltwinattack.ino) with Arduino IDE.
