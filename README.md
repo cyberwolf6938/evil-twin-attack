@@ -40,4 +40,4 @@ Medium: https://medium.com/@falolopopololopopo/evil-twin-wi-fi-attacks-how-to-sp
 GitHub: https://github.com/yourusername
 
 ## License
-MIT
+LICENSE
